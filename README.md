@@ -1,2 +1,2 @@
 # flexable
-flex
+Sample layouts using flexbox
